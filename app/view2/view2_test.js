@@ -1,4 +1,8 @@
 'use strict';
+import 'angular';
+import 'angular-route';
+import 'angular-mocks';
+import './view2';
 
 describe('myApp.view2 module', function() {
 

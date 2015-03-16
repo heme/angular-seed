@@ -1,4 +1,7 @@
 'use strict';
+import 'angular';
+import 'angular-mocks';
+import './version';
 
 describe('myApp.version module', function() {
   beforeEach(module('myApp.version'));
