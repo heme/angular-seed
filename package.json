@@ -1,16 +1,20 @@
 {
-  "name": "angular-seed",
+  "name": "angular-seed-es5",
   "private": true,
   "version": "0.0.0",
   "description": "A starter project for AngularJS",
   "repository": "https://github.com/angular/angular-seed",
   "license": "MIT",
   "devDependencies": {
+    "del": "^1.1.1",
+    "gulp": "^3.8.11",
+    "gulp-assets": "^0.2.2",
     "http-server": "^0.6.1",
     "jspm": "^0.14.0",
     "karma": "~0.10",
     "karma-junit-reporter": "^0.2.2",
     "protractor": "^1.1.1",
+    "require-dir": "^0.1.0",
     "shelljs": "^0.2.6"
   },
   "scripts": {
